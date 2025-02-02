@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Advanced AI techniques, Machine Learning frameworks, and full-stack web development.**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/MdDaudIbrahim/Portfolio)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://daudibrahim.com/)
 
 - 📫 How to reach me **ur.daudibrahim@gmail.com**
 
